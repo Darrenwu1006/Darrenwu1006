@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Darrenwu1006
 - 👀 I’m interested in Creative Coding and Data Storytelling
-- 🌱 I’m currently learning Js.d3, Js.p5, Machine Learning 
+- 🌱 I’m currently learning Js.d3, Js.p5, Machine Learning
+- ✨ This is my personal website : https://yumingwu.work/
 - 💞️ I’m looking to collaborate on All kinds of social adovocacy project
 - 📫 How to reach me: fantasy19921006@gmail.com
 - 😄 Pronouns: He/His/Him
